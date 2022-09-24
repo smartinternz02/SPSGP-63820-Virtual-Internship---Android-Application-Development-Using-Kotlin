@@ -8,6 +8,10 @@ Virtual Internship - Android Application Development Using Kotlin
 #Birthday App-->
 https://github.com/ankit-neticon/BirthdayWishesApp
 
+
+#Bus Scheduler App-->
+https://github.com/ankit-neticon/BusSchedulerApp
+
 #Dice Roller App-->
 https://github.com/ankit-neticon/DiceRollerApp
 
